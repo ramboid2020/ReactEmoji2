@@ -1,2 +1,2 @@
-# ReactEmoji2
+# ReactEmoji
 Created with CodeSandbox
